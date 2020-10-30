@@ -1,6 +1,4 @@
 config:
-  info: master branch,springcloud-config/config-dev.yml
+  info: master branch,springcloud-config/config-dev.yml,version:1
 application:
   name: config-dev
-version:
-  1
